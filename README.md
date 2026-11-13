@@ -1,3 +1,0 @@
-# kapilarny.dev
-
-my website
